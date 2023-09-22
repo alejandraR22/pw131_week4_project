@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://mdeigabo:78ZYRsdUA_20BmEZ4rVloIB32jZizUnR@hansken.db.elephantsql.com/mdeigabo",
+            "name": "shohasdealershipDB"
+        }
+    ]
+}
